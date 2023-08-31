@@ -42,7 +42,7 @@ treelite 3.9.0
 ├── EE_TRAIN_1.ipynb
 └── EE_TRAIN_2.ipynb
 ```
-** 용량문제로 TRAIN 노트북의 훈련 그래프, 기록 삭제.
+* 용량문제로 TRAIN 노트북의 훈련 그래프, 기록 삭제.
 
 ## Order
 ```
