@@ -42,3 +42,12 @@ treelite 3.9.0
 ├── EE_TRAIN_1.ipynb
 └── EE_TRAIN_2.ipynb
 ```
+
+## Order
+```
+1. EE_DATASET.ipynb
+2.
+  - EE_TRAIN_0.ipynb
+  - EE_TRAIN_1.ipynb
+  - EE_TRAIN_2.ipynb
+3. EE_INFERENCE.ipynb
