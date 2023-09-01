@@ -7,6 +7,7 @@ CV strategy.pdf
 Feature.pdf
 Remove Outliers.pdf
 Closed.pdf
+Loss function.pdf
 ```
 
 ## Environment
